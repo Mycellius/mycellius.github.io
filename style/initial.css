@@ -4,3 +4,7 @@
 body {
 	background-color: gold;
 }
+
+#global {
+	width: 1200px;
+}
