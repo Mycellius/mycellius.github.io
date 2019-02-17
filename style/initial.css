@@ -8,3 +8,8 @@ body {
 #global {
 	width: 1200px;
 }
+
+.img-wrap img {
+	height: 100px;
+	width: 100px;
+}
