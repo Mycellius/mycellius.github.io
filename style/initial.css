@@ -1,15 +1,49 @@
 @charset "utf-8"
 /*css document*/
 
+body, p, h1, h2,h3 ,h4 ,h5 ,h6 , nav, ul, li {
+	margin: 0px;
+	padding: 0px;
+}
+
 body {
-	background-color: gold;
+	width: 1440px;
+	background-color: black;
+	height: fit-content;
+	margin: 0 auto;
 }
 
 #global {
-	width: 1200px;
+	height: fit-content;
+	margin: 0 auto;
+}
+
+nav {
+	background-color: #773cbb;
+	border-bottom: 3px solid #a3a2b2;
+	height: 150px;
+	width: 100%;
+	position: sticky;
+}
+
+.img-wrap {
+	margin: 25px 0px 0px 0px;
 }
 
 .img-wrap img {
 	height: 100px;
 	width: 100px;
+}
+
+ul {
+	margin: 0px 0px 0px 25px;
+	list-style-type: none;
+	padding: 0px;
+}
+
+li {
+	margin: 5px;
+	float: left;
+	color: gold;
+	margin: 25px 10px 0px;
 }
