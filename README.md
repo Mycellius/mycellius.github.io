@@ -2,5 +2,5 @@
 
 Just learning
 
-## disclaimer
-i don't own any image or intellectual property unless specified and all credit and rights go to their respective owners
+## wacky
+i don't own any images and/or intellectual property unless specified and all credits and rights go to their respective owners
