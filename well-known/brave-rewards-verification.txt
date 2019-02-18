@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: julienge.com
+Token: 4afc4aecfb96e62d3d4149b0a66e0b089c9c3bc2f3d9ea027ebfa4639992551d
