@@ -1,0 +1,71 @@
+@charset "utf-8"
+/*css document*/
+/*	font-family: 'Puritan', sans-serif;
+font-family: 'Open Sans', sans-serif;	*/
+
+body {
+	margin: 0px;
+}
+
+#global {
+	height: fit-content;
+	margin: 0 auto;
+	width: 100%;
+}
+
+header {
+	position: sticky;
+}
+
+nav {
+	background-color: #773cbb;
+	border-bottom: 3px solid #a3a2b2;
+	height: 75px;
+	position: sticky;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0px 0px 0px 25px;
+}
+
+li {
+	float: right;
+	color: gold;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	width: fit-content;
+	position: relative;
+	margin: 20px 15px 0px;
+}
+
+.left-li, .right-li {
+	right: 65px;
+}
+
+#sidenut {
+	display: none;
+}
+
+#li-logo {
+	float: left;
+	margin: 3px 0px 0px 0px;
+	top: 5px;
+}
+
+#li-logo img {
+	display: block;
+	margin: 0px 3px 0px 0px;
+	width: 60px;
+	float: left;
+	background-color: gold;
+	border-radius: 15px;
+}
+
+#li-logo a {
+	margin: 0px;
+	float: left;
+	color: gold;
+	text-decoration: none;
+	font-size: 40px;
+}
