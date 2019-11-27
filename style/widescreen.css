@@ -39,10 +39,6 @@ li {
 	margin: 20px 15px 0px;
 }
 
-.left-li, .right-li {
-	right: 65px;
-}
-
 #sidenut {
 	display: none;
 }
